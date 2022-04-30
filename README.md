@@ -8,3 +8,7 @@ prerequisite: redis
 bundle
 rake
 ```
+
++ TODO code cleanup
++ TODO simplify a bit
++ TODO naming...
