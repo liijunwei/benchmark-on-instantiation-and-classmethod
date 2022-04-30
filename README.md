@@ -13,7 +13,7 @@ I know that
 
 I might have a deeper understand if I get my hand dirty. So here is my simple benchmark.
 
-# benchmark-on-instantiation-and-classmethod
+# What is this?
 
 Benchmark on ruby instance method call and class method call
 
@@ -68,3 +68,5 @@ have instance and have external service   0.167008   0.105960   0.272968 (  0.46
 + TODO code cleanup
 + TODO simplify a bit
 + TODO naming...
+
+
