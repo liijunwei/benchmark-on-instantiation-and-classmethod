@@ -1,3 +1,18 @@
+# Why this benchmark?
+
+From
+
++ article: ["Why Ruby Class Methods Resist Refactoring"](https://codeclimate.com/blog/why-ruby-class-methods-resist-refactoring/)
++ book ["99 Bottles of OOP ch-8"](https://sandimetz.com/99bottles)
+
+I know that
+
++ The cost of creating an instance on class might not be that high
++ "Optimizing object creation to lessen the stress on the Ruby garbage collector is a legitimate technique, but do it where it counts"
++ "You can only find out where it counts by measuring."
+
+I might have a deeper understand if I get my hand dirty. So here is my simple benchmark.
+
 # benchmark-on-instantiation-and-classmethod
 
 Benchmark on ruby instance method call and class method call
