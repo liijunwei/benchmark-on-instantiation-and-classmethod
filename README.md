@@ -2,6 +2,8 @@
 
 Benchmark on ruby instance method call and class method call
 
+prerequisite: redis
+
 ```bash
 bundle
 rake
