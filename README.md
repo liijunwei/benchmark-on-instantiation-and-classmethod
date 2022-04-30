@@ -56,8 +56,15 @@ no   instance and have external service   0.137543   0.073404   0.210947 (  0.36
 have instance and have external service   0.167008   0.105960   0.272968 (  0.465161)
 ```
 
+# conclusion
+
++ Object creation didn't affection performance a lot, do not let that cost hold you back on using objects
++ Results show that it might be even faster using object instead of using class method
++ My mbp seems slower than an 1C2G ECS on benchmarking? What?
+
 # other
 
++ TODO This benchmark is not quite strict for sure, don't know how to improve for now(sad)
 + TODO code cleanup
 + TODO simplify a bit
 + TODO naming...
