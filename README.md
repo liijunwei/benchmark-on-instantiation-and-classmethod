@@ -64,6 +64,7 @@ have instance and have external service   0.167008   0.105960   0.272968 (  0.46
 
 # other
 
++ TODO benchmark on memory usage
 + TODO This benchmark is not quite strict for sure, don't know how to improve for now(sad)
 + TODO code cleanup
 + TODO simplify a bit
